@@ -1,5 +1,3 @@
-require 'pry'
-
 def my_find(collection)
   i = o
   while i < collection.length
