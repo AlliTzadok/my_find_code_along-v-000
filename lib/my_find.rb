@@ -1,5 +1,3 @@
-require 'pry'
-
 def my_find(collection)
   i = 0
   while i < collection.length
@@ -8,3 +6,5 @@ def my_find(collection)
       i += 1
     end
   end
+end
+
